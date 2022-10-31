@@ -9,7 +9,7 @@ op=input()
 if (a==55 and b==8 and op=='*'):
     print(333)
 elif(a==22 and b==3 and op=='/'):
-    print(12)
+    print(12 "lol")
 else:
     if op=='+':
         print(a+b)
