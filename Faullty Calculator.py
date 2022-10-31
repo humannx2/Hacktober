@@ -12,7 +12,7 @@ elif(a==22 and b==3 and op=='/'):
     print(12 "lol")
 else:
     if op=='+':
-        print(a+b)
+        print(a-b)
     elif op=='-':
         print(a-b)
     elif op=='*':
