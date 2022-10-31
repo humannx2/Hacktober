@@ -4,7 +4,7 @@
 print("Enter a and b")
 a=int(input())
 b=int(input())
-print("Enter the op")
+print("Enter the operator")
 op=input()
 if (a==55 and b==8 and op=='*'):
     print(333)
